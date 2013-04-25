@@ -18,6 +18,7 @@
 		82A1DF111701D2E20042CD07 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82A1DF101701D2E20042CD07 /* Default-568h@2x.png */; };
 		82A1DF141701D2E20042CD07 /* JLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82A1DF131701D2E20042CD07 /* JLViewController.m */; };
 		82A1DF171701D2E20042CD07 /* JLViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 82A1DF151701D2E20042CD07 /* JLViewController.xib */; };
+		82D5DB371729330800C1F754 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 82D5DB361729330800C1F754 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		82A1DF121701D2E20042CD07 /* JLViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JLViewController.h; sourceTree = "<group>"; };
 		82A1DF131701D2E20042CD07 /* JLViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JLViewController.m; sourceTree = "<group>"; };
 		82A1DF161701D2E20042CD07 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/JLViewController.xib; sourceTree = "<group>"; };
+		82D5DB361729330800C1F754 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		82A1DEEE1701D2E20042CD07 = {
 			isa = PBXGroup;
 			children = (
+				82D5DB361729330800C1F754 /* README.md */,
 				82A1DF001701D2E20042CD07 /* UImage+CGContext */,
 				82A1DEF91701D2E20042CD07 /* Frameworks */,
 				82A1DEF81701D2E20042CD07 /* Products */,
@@ -164,6 +167,7 @@
 				82A1DF0F1701D2E20042CD07 /* Default@2x.png in Resources */,
 				82A1DF111701D2E20042CD07 /* Default-568h@2x.png in Resources */,
 				82A1DF171701D2E20042CD07 /* JLViewController.xib in Resources */,
+				82D5DB371729330800C1F754 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				82A1DF1C1701D2E20042CD07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
